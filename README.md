@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **some private projects**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NextJS**
 
 - 📫 How to reach me **office@vuami.net**
 
