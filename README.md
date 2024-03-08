@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 📫 How to reach me **office@vuami.net** / **https://vuami.net** / Discord: **at0mweb**
+- 📫 How to reach me **office@vuami.net** / **https://vuami.net** / <img src="https://cdn.iconscout.com/icon/free/png-256/free-discord-4408589-3649947.png?f=webp" height="20" width="20" /> **at0mweb**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
